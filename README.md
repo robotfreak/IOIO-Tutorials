@@ -1,4 +1,4 @@
 # IOIO-Tutorials
 Tutorials for the IOIO board
 
-* Tutorial 1: [ULtrasonic Sensor](IOIO-Tutorial1-UltrasonicSensor)
+* Tutorial 1: [Ultrasonic Sensor](IOIO-Tutorial1-UltrasonicSensor)
